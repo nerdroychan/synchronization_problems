@@ -4,7 +4,7 @@
 #include <unistd.h>
 
 // Reader and writer count
-#define NR 5
+#define NR 6 
 #define NW 3
 
 #define sleep(int) {}
